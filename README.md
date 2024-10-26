@@ -6,6 +6,10 @@ If you're interested in collaborating or discussing any of these topics, feel fr
 
 ---
 
+**Language**: [English](./README.md) | [中文](./README_zh.md)  
+
+---
+
 ## 📁 Table of Contents
 
 ### Wallets 👜
