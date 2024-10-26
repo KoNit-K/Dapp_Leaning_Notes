@@ -15,10 +15,10 @@ If you're interested in collaborating or discussing any of these topics, feel fr
 ### Wallets 👜
 Here, you'll find detailed documentation on different wallet types and functionalities. Choose from the list below to navigate to specific wallet-related projects and resources.
 
-- [ ] [**(Multi-sig) Multisignature Wallets**](./wallets/multisignature.md)
+- [ ] [**(Multi-sig) Multi Signature Wallets**](./wallets/multisignature.md)
 - [ ] [**(MPC) Multi-Party Computation Wallets**](./wallets/mpc.md)
-- [ ] [**(SCW) Smart Contract Wallet**](./wallets/contract_wallet.md)
-- [ ] [**(HD) HD Wallet**](./wallets/hd_wallet.md)
+- [ ] [**(SCW) Smart Contract Wallets**](./wallets/contract_wallet.md)
+- [ ] [**(HD) HD Wallets**](./wallets/hd_wallet.md)
 - [ ] [**More...**](./wallets/other.md)
 
 ---
@@ -31,19 +31,19 @@ Explore resources and knowledge summaries for various DEX protocols and their fu
 - [ ] [**Curve**](./dex/curve.md)
 - [ ] [**SushiSwap**](./dex/sushiswap.md)
 - [ ] [**Balancer**](./dex/balancer.md)
-- [ ] [**More Protocols...**](./dex/other_dex_protocols.md)
+- [ ] [**More...**](./dex/other_dex_protocols.md)
 
 ---
 
-### Public Blockchains 🌐
-Dive into the technical details and concepts for major public blockchains used in decentralized applications.
+### Chains 🌐
+Dive into the technical details and concepts for major chains.
 
 - [ ] [**Ethereum (ETH)**](./blockchains/ethereum.md)
 - [ ] [**TRON**](./blockchains/tron.md)
 - [ ] [**Sui**](./blockchains/sui.md)
 - [ ] [**Binance Smart Chain (BSC)**](./blockchains/bsc.md)
 - [ ] [**Polygon (MATIC)**](./blockchains/polygon.md)
-- [ ] [**More Network...**](./blockchains/other_blockchains.md)
+- [ ] [**More...**](./blockchains/other_blockchains.md)
 
 ---
 
