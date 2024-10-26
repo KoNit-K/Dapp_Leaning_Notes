@@ -1,6 +1,6 @@
-# 🚀 DApp(Decentralized Application) Knowledge Summary
+# 🚀 DApp Knowledge Summary
 
-Welcome to the **KoNit's DApp Learning & Development Notes** repository! 📚 This project aims to categorize and summarize knowledge gained during the study and development of DApps, including topics like DEXs, MPC Wallets, HD Wallet generation, aggregation, and much more.
+Welcome to the **KoNit's DApp(Decentralized Application) Learning & Development Notes** repository! 📚 This project aims to categorize and summarize knowledge gained during the study and development of DApps, including topics like DEXs, MPC Wallets, HD Wallet generation, aggregation, and much more.
 
 If you're interested in collaborating or discussing any of these topics, feel free to reach out via email: [konit.block@protonmail.com](mailto:konit.block@protonmail.com).
 
