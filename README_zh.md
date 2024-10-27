@@ -16,7 +16,7 @@
 这里包含了不同类型钱包及其功能的详细文档。您可以从以下列表中选择具体的项目和资源。
 
 - [ ] [**（多签）多重签名钱包**](./wallets/multisignature.md)
-- [ ] [**（MPC）多方计算钱包**](./wallets/mpc.md)
+- [x] [**（MPC）多方计算钱包**](./Wallet/02-MPC_Wallet/README_zh.md)
 - [ ] [**（SCW）智能合约钱包**](./wallets/contract_wallet.md)
 - [ ] [**（HD）HD 钱包**](./wallets/hd_wallet.md)
 - [ ] [**更多...**](./wallets/other.md)

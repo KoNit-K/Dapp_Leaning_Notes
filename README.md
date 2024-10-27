@@ -16,7 +16,7 @@ If you're interested in collaborating or discussing any of these topics, feel fr
 Here, you'll find detailed documentation on different wallet types and functionalities. Choose from the list below to navigate to specific wallet-related projects and resources.
 
 - [ ] [**(Multi-sig) Multi Signature Wallets**](./wallets/multisignature.md)
-- [ ] [**(MPC) Multi-Party Computation Wallets**](./wallets/mpc.md)
+- [x] [**(MPC) Multi-Party Computation Wallets**](./Wallet/02-MPC_Wallet/README.md)
 - [ ] [**(SCW) Smart Contract Wallets**](./wallets/contract_wallet.md)
 - [ ] [**(HD) HD Wallets**](./wallets/hd_wallet.md)
 - [ ] [**More...**](./wallets/other.md)
