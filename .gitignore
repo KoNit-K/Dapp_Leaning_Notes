@@ -1,0 +1,9 @@
+# Solidity
+node_modules/
+artifacts/
+
+# Key
+mnemonic.txt
+
+# Env
+.env
